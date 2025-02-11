@@ -1,4 +1,1 @@
-<center>
-<h1>My First HTML Page on GIT</h1>
-</center>
-
+<h1 align="center";">My First HTML Page on GIT</h1>
